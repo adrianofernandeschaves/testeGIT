@@ -4,3 +4,4 @@ Teste papel
 Outro teste de conflito!!!
 Linha n4
 Linha n6
+Linha 5
