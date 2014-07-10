@@ -1,3 +1,4 @@
 Hello git, Adriano!!!
 Teste Kaufmann...
 Teste papel
+Outro teste de conflito!!!
